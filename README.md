@@ -8,7 +8,6 @@ Detect sensitive information, calculate privacy risk, redact PII, strip metadata
 [![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart)](https://dart.dev)
 [![Android](https://img.shields.io/badge/Android-API_21+-3DDC84?logo=android)](https://developer.android.com)
 [![Offline](https://img.shields.io/badge/Privacy-100%25_Offline-success)](#)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ---
 
@@ -197,13 +196,4 @@ Contributions are welcome! Please follow these steps:
 - Keep the app 100% offline (no network calls)
 - Follow Dart/Flutter linting standards (`flutter analyze`)
 
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
----
-
-**Built with ❤️ using Flutter & Dart. Your screenshots deserve privacy.** 🛡️
 ```
