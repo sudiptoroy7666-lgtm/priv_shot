@@ -28,26 +28,14 @@ Detect sensitive information, calculate privacy risk, redact PII, strip metadata
 ---
 
 ## 📱 Screenshots
- 'https://github.com/.../Screenshot%202026-06-06%20115510.png?raw=true',
-    'https://github.com/.../Screenshot%202026-06-06%20115429.png?raw=true',
-    'https://github.com/.../Screenshot%202026-05-30%20161859.png?raw=true'
-  ]
-},
+ <p align="center">
+  <img src="https://github.com/sudiptoroy7666-lgtm/portfolio/blob/main/assets/screenshots/privShot/p1.jpg?raw=true" width="16%"/>
+  <img src="https://github.com/sudiptoroy7666-lgtm/portfolio/blob/main/assets/screenshots/privShot/p2.jpg?raw=true" width="16%"/>
+  <img src="https://github.com/sudiptoroy7666-lgtm/portfolio/blob/main/assets/screenshots/privShot/p3.jpg?raw=true" width="16%"/>
+  <img src="https://github.com/sudiptoroy7666-lgtm/portfolio/blob/main/assets/screenshots/privShot/p4.jpg?raw=true" width="16%"/>
+  <img src="https://github.com/sudiptoroy7666-lgtm/portfolio/blob/main/assets/screenshots/privShot/p5.jpg?raw=true" width="16%"/>
+</p>
 
-        
-        
-      {label:'Vault List', url:'https://github.com/sudiptoroy7666-lgtm/portfolio/blob/main/assets/screenshots/vaultx/v6.png?raw=true'},
-      {label:'Add Entry', url:'https://github.com/sudiptoroy7666-lgtm/portfolio/blob/main/assets/screenshots/vaultx/v7.png?raw=true'},
-      {label:'Signup', url:'https://github.com/sudiptoroy7666-lgtm/portfolio/blob/main/assets/screenshots/vaultx/v1.jpg?raw=true'},
-      {label:'Login', url:'https://github.com/sudiptoroy7666-lgtm/portfolio/blob/main/assets/screenshots/vaultx/v2.jpg?raw=true'},
-      {label:'Reset Password', url:'https://github.com/sudiptoroy7666-lgtm/portfolio/blob/main/assets/screenshots/vaultx/v3.jpg?raw=true'},
-      {label:'Master Password', url:'https://github.com/sudiptoroy7666-lgtm/portfolio/blob/main/assets/screenshots/vaultx/v4.png?raw=true'},
-      {label:'Password View PIN', url:'https://github.com/sudiptoroy7666-lgtm/portfolio/blob/main/assets/screenshots/vaultx/v5.png?raw=true'},
-      {label:'Password View', url:'https://github.com/sudiptoroy7666-lgtm/portfolio/blob/main/assets/screenshots/vaultx/v8.png?raw=true'},
-      {label:'Import Backup', url:'https://github.com/sudiptoroy7666-lgtm/portfolio/blob/main/assets/screenshots/vaultx/v9.jpg?raw=true'},
-      {label:'Export Data', url:'https://github.com/sudiptoroy7666-lgtm/portfolio/blob/main/assets/screenshots/vaultx/v10.jpg?raw=true'},
-      {label:'Settings', url:'https://github.com/sudiptoroy7666-lgtm/portfolio/blob/main/assets/screenshots/vaultx/v11.png?raw=true'}
-    ],
 
 
 ---
