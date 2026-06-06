@@ -1,0 +1,47 @@
+name: priv_shot
+description: "Privacy-first screenshot sanitizer with canvas, score, and presets."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+  # State Management
+  provider: ^6.1.2
+
+  # ML & OCR (On-device text recognition)
+  google_mlkit_text_recognition: ^0.15.0
+  google_mlkit_commons: ^0.11.0
+
+  # Image Handling & File System
+  image_picker: ^1.1.2
+  image: ^4.5.3
+  path_provider: ^2.1.5
+
+  # Sharing & Intents
+  receive_sharing_intent: ^1.8.1
+  share_plus: ^10.1.4
+  gal: ^2.3.0  # 👈 Add this line
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  mockito: ^5.4.4
+  build_runner: ^2.4.11
+  flutter_launcher_icons: ^0.14.3
+
+flutter:
+  uses-material-design: true
+
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: "assets/icon.png"
+  min_sdk_android: 21
